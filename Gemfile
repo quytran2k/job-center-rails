@@ -15,7 +15,9 @@ gem "sqlite3", "~> 1.4"
 gem "devise"
 gem "twitter-bootstrap-rails"
 gem "devise-bootstrap-views"
+# Missing library
 gem 'jquery-rails'
+gem 'sassc'
 
 # Use the Puma web server [https://github.com/puma/puma]
 gem "puma", ">= 5.0"
